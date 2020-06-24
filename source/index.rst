@@ -6,7 +6,7 @@
 Tópicos em Observação da Terra
 =================================
 
-Esta é um site para o registro dos conteúdos de tópicos =D
+Esta é um site para o registro dos conteúdos de Tópicos em Observação da Terra.
 
 .. toctree::
    :numbered:
@@ -14,6 +14,7 @@ Esta é um site para o registro dos conteúdos de tópicos =D
    :caption: Conteúdo:
    
    escala
+   material
 
 .. Índice
 .. ==================

@@ -18,8 +18,8 @@
 # -- Project information -----------------------------------------------------
 
 project = 'Tópicos em Observação da Terra'
-copyright = '2020, CAP'
-author = 'CAP'
+copyright = '2020, Computação Aplicada'
+author = 'Leonardo'
 
 # The full version, including alpha/beta/rc tags
 release = '0.0.1'
