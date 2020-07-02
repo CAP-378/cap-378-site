@@ -10,15 +10,15 @@ Em cada semana, apresentações são feitas. A tabela abaixo apresenta a relaç�
 +-------+-----------------------------------------------------------------------------------------------------------------------------------+---------------+
 | 24/06 | Seminário 1: Dra. Evlyn Novo: conceitos de sensoriamento remoto e o histórico de missões de observação da Terra                   |    Leonardo   |
 +-------+-----------------------------------------------------------------------------------------------------------------------------------+---------------+
-| 01/07 | Seminário 2: Dr. Julio D’Alge: Programa CBERS                                                                                     |    Natália    |
+| 01/07 | Seminário 2: Dr. Julio D’Alge: Programa CBERS                                                                                     |    Leonardo   |
 +-------+-----------------------------------------------------------------------------------------------------------------------------------+---------------+
-| 08/07 | Seminário 3: Dr. Gilberto Ribeiro: Geotecnologias - histórico do desenvolvimento no Brasil e no INPE                              | Felipe Carlos |
+| 08/07 | Seminário 3: Dr. Claudio Barbosa: Sensoriamento Remoto de águas interiores e as atividades desenvolvidas no LabISA                |    Giovanni   |
 +-------+-----------------------------------------------------------------------------------------------------------------------------------+---------------+
-| 15/07 | Seminário 4: (a confirmar)                                                                                                        |               |
+| 15/07 | Seminário 4: Dr. Thales Körting: Deep Learning e problemas de classificação em observação da Terra                                |  a confirmar  |
 +-------+-----------------------------------------------------------------------------------------------------------------------------------+---------------+
-| 22/07 | Seminário 5: (a confirmar)                                                                                                        |               |
+| 22/07 | Seminário 5: Dr. Gilberto Ribeiro: Geotecnologias - histórico do desenvolvimento no Brasil e no INPE                              | Felipe Carlos |
 +-------+-----------------------------------------------------------------------------------------------------------------------------------+---------------+
-| 29/07 | Seminário 6: (a confirmar)                                                                                                        |               |
+| 29/07 | Seminário 6: Dra. Karine Ferreira: Projeto Brazil DataCube                                                                        |     Natália   |
 +-------+-----------------------------------------------------------------------------------------------------------------------------------+---------------+
 | 05/08 | Seminário 7: (a confirmar)                                                                                                        |               |
 +-------+-----------------------------------------------------------------------------------------------------------------------------------+---------------+
