@@ -14,15 +14,15 @@ Em cada semana, apresentações são feitas. A tabela abaixo apresenta a relaç�
 +-------+-----------------------------------------------------------------------------------------------------------------------------------+---------------+
 | 08/07 | Seminário 3: Dr. Claudio Barbosa: Sensoriamento Remoto de águas interiores e as atividades desenvolvidas no LabISA                |    Giovanni   |
 +-------+-----------------------------------------------------------------------------------------------------------------------------------+---------------+
-| 15/07 | Seminário 4: Dr. Thales Körting: Deep Learning e problemas de classificação em observação da Terra                                |  a confirmar  |
+| 15/07 | Seminário 4: Dr. Thales Körting: Deep Learning e problemas de classificação em observação da Terra                                |    Natália    |
 +-------+-----------------------------------------------------------------------------------------------------------------------------------+---------------+
-| 22/07 | Seminário 5: Dr. Gilberto Ribeiro: Geotecnologias - histórico do desenvolvimento no Brasil e no INPE                              | Felipe Carlos |
+| 22/07 | Seminário 5: Dr. Gilberto Ribeiro: Geotecnologias - histórico do desenvolvimento no Brasil e no INPE                              | Felipe Perin  |
 +-------+-----------------------------------------------------------------------------------------------------------------------------------+---------------+
-| 29/07 | Seminário 6: Dra. Karine Ferreira: Projeto Brazil DataCube                                                                        |     Natália   |
+| 29/07 | Seminário 6: Dra. Karine Ferreira: Projeto Brazil DataCube                                                                        |      Yuri     |
 +-------+-----------------------------------------------------------------------------------------------------------------------------------+---------------+
-| 05/08 | Seminário 7: (a confirmar)                                                                                                        |               |
+| 05/08 | Seminário 7: (a confirmar)                                                                                                        | (a confirmar) |
 +-------+-----------------------------------------------------------------------------------------------------------------------------------+---------------+
-| 12/08 | Seminário 8: (a confirmar)                                                                                                        |               |
+| 12/08 | Seminário 8: (a confirmar)                                                                                                        | (a confirmar) |
 +-------+-----------------------------------------------------------------------------------------------------------------------------------+---------------+
 | 19/08 | Aula 2: espaço destinado exclusivamente aos alunos da disciplina - discussões sobre o vídeo resumo da disciplina                  |    Leonardo   |
 +-------+-----------------------------------------------------------------------------------------------------------------------------------+---------------+
