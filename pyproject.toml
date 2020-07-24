@@ -1,0 +1,15 @@
+[tool.poetry]
+name = "cap-378-site"
+version = "0.1.0"
+description = ""
+authors = ["Turma CAP 378"]
+
+[tool.poetry.dependencies]
+python = "^3.7"
+Sphinx = "^3.1.2"
+recommonmark = "^0.6.0"
+sphinx-rtd-theme = "^0.5.0"
+
+[build-system]
+requires = ["poetry>=0.12"]
+build-backend = "poetry.masonry.api"
