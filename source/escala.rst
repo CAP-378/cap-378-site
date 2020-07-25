@@ -16,7 +16,7 @@ Em cada semana, apresentações são feitas. A tabela abaixo apresenta a relaç�
 +-------+-----------------------------------------------------------------------------------------------------------------------------------+---------------+
 | 15/07 | Seminário 4: Dr. Thales Körting: Deep Learning e problemas de classificação em observação da Terra                                |    Natália    |
 +-------+-----------------------------------------------------------------------------------------------------------------------------------+---------------+
-| 22/07 | Seminário 5: Dr. Gilberto Ribeiro: Geotecnologias - histórico do desenvolvimento no Brasil e no INPE                              | Felipe Perin  |
+| 22/07 | Seminário 5: Dra. Lubia Vinhas: Geotecnologias e seus desenvolvimentos no INPE                                                    | Felipe Perin  |
 +-------+-----------------------------------------------------------------------------------------------------------------------------------+---------------+
 | 29/07 | Seminário 6: Dra. Karine Ferreira: Projeto Brazil DataCube                                                                        |      Yuri     |
 +-------+-----------------------------------------------------------------------------------------------------------------------------------+---------------+
