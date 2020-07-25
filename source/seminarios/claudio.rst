@@ -14,10 +14,11 @@ Este seminário foi dado pelo Dr. Claudio Barbosa (INPE), apresentando as ativid
 Melhores momentos
 -------------------
 
+*Vídeos dos melhores momentos, selecionados pelos alunos*
+
 .. video:: ../_static/VideoClaudio1.mp4
    :width: 500
    :height: 300
-
 
 .. video:: ../_static/VideoClaudio2.mp4
    :width: 500

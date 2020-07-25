@@ -7,13 +7,14 @@ Programa CBERS
 
 Proferido pelo Dr. Julio D'alge (INPE), esse seminário versou sobre o histórico, situação atual e possíveis cenários futuros para o programa CBERS.
 
-
 .. image:: ../_static/Julio1.png
    :scale: 50 %
    :align: center
 
 Melhores momentos
 -------------------
+
+*Vídeos dos melhores momentos, selecionados pelos alunos*
 
 .. video:: ../_static/JulioVideo1.mp4
    :width: 500
