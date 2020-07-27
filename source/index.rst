@@ -24,6 +24,7 @@ Esta disciplina tem por objetivo situar como a computação como disciplina se i
    seminarios/julio.rst
    seminarios/claudio.rst
    seminarios/thales.rst
+   seminarios/lubia.rst
 
 .. Índice
 .. ==================
