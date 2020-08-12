@@ -38,8 +38,6 @@ Esta palestra foi ministrada pela Dra. Karine Reis Ferreira (INPE), com o títul
       </div>
     </embed>
 
-|br|
-
 Melhores momentos
 ------------------
 
