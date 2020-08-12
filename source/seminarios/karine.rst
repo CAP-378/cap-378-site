@@ -50,7 +50,7 @@ Melhores momentos
     <embed>
         <div align="center">
          <video width="500" height="300" controls>
-            <source src="../_static/JulioVideo1.mp4" type="video/mp4">
+            <iframe width="560" height="315" src="https://www.youtube.com/embed/eVAjQNvQdO8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
          </video>
       </div>
     </embed>
