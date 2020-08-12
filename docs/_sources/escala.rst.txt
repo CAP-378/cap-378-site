@@ -22,7 +22,7 @@ Em cada semana, apresentações são feitas. A tabela abaixo apresenta a relaç�
 +-------+-----------------------------------------------------------------------------------------------------------------------------------+---------------+
 | 05/08 | Seminário 7: Msc. Mateus Macur: Observação da Terra e Programa Queimadas                                                          | Felipe Carlos |
 +-------+-----------------------------------------------------------------------------------------------------------------------------------+---------------+
-| 12/08 | Seminário 8: (a confirmar)                                                                                                        | (a confirmar) |
+| 12/08 | Seminário 8: Dr. Alan Calheiros: Sensoriamento Remoto da Atmosfera                                                                |    Fernando   |
 +-------+-----------------------------------------------------------------------------------------------------------------------------------+---------------+
 | 19/08 | Aula 2: espaço destinado exclusivamente aos alunos da disciplina - discussões sobre o vídeo resumo da disciplina                  |    Leonardo   |
 +-------+-----------------------------------------------------------------------------------------------------------------------------------+---------------+
