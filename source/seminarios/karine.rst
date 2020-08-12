@@ -5,12 +5,55 @@ Projeto Brazil Data Cube
 
    <br />
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed aliquam est nulla. Vestibulum vel tortor vel urna mollis ornare. Donec elit mi, dictum in risus id, placerat molestie magna. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Pellentesque quis elit vitae orci tincidunt viverra eleifend ut lacus. Vivamus mattis orci a justo gravida elementum. Suspendisse fermentum non ex eget aliquam. Donec ligula mi, sagittis sit amet nibh id, lobortis scelerisque mi. Aenean commodo dolor dignissim ex congue convallis. Suspendisse orci mauris, viverra et faucibus nec, elementum sed mi. Vivamus viverra ipsum a tellus lacinia, vitae blandit nisi eleifend. Morbi facilisis condimentum tincidunt. Suspendisse dapibus nisl vitae dapibus aliquet. Vivamus vulputate hendrerit scelerisque. Nunc commodo nibh ut condimentum consequat. 
+Esta palestra foi ministrada pela Dra. Karine Reis Ferreira (INPE), com o título "Projeto Brazil Data Cube". O seminário abordou os objetivos e a principal motivação do projeto, a arquitetura do cubo de dados, como são feitas as análises das séries temporais de imagens de satélites e como essas imagens são armazenadas nos cubos, o particionamento do território brasileiro em grades (tillings), além de todo o procedimento para tratar, reconhecer e processar as cenas para poder analisar o uso e cobertura da Terra. 
+
+
+|br|
+
+.. raw:: html
+
+    <embed>
+        <div align="center">
+         <img src="../_static/Karine1.png" style="width: 60vw; min-width: 330px;">
+      </div>
+    </embed>
+
+|br|
+
+.. raw:: html
+
+    <embed>
+        <div align="center">
+         <img src="../_static/Karine2.png" style="width: 30vw; min-width: 330px;">
+      </div>
+    </embed>
+
+|br|
+
+.. raw:: html
+
+    <embed>
+        <div align="center">
+         <img src="../_static/Karine3.png" style="width: 30vw; min-width: 330px;">
+      </div>
+    </embed>
+
+|br|
 
 Melhores momentos
 ------------------
 
-Suspendisse orci mauris, viverra et faucibus nec, elementum sed mi. Vivamus viverra ipsum a tellus lacinia, vitae blandit nisi eleifend. Morbi facilisis condimentum tincidunt. Suspendisse dapibus nisl vitae dapibus aliquet. Vivamus vulputate hendrerit scelerisque. Nunc commodo nibh ut condimentum consequat. 
+*Vídeos dos melhores momentos, selecionados pelos alunos*
+
+.. raw:: html
+
+    <embed>
+        <div align="center">
+         <video width="500" height="300" controls>
+            <source src="../_static/JulioVideo1.mp4" type="video/mp4">
+         </video>
+      </div>
+    </embed>
 
 Comentários dos alunos
 -----------------------
