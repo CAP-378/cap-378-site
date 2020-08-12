@@ -7,9 +7,13 @@ Sensoriamento Remoto de águas interiores e as atividades desenvolvidas no LabIS
 
 Este seminário foi dado pelo Dr. Claudio Barbosa (INPE), apresentando as atividades do Laboratório de Instrumentação de Sistemas Aquáticos do INPE, e a importância da computação nas atividades de Sensoriamento Remoto de águas interiores. 
 
-.. image:: ../_static/Claudio1.png
-   :scale: 70 %
-   :align: center
+.. raw:: html
+
+    <embed>
+        <div align="center">
+         <img src="../_static/Claudio1.png" style="width: 40vw; min-width: 330px;">
+      </div>
+    </embed>
 
 Melhores momentos
 -------------------
