@@ -55,6 +55,16 @@ Melhores momentos
       </div>
     </embed>
 
+.. raw:: html
+
+    <embed>
+        <div align="center">
+         <video width="500" height="300" controls>
+            <iframe width="560" height="315" src="https://www.youtube.com/embed/D6NrneVir3o" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+         </video>
+      </div>
+    </embed>
+
 Comentários dos alunos
 -----------------------
 
