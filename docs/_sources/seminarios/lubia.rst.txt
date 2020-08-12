@@ -21,13 +21,25 @@ Melhores momentos
 
 *Vídeos dos melhores momentos, selecionados pelos alunos*
 
-.. video:: ../_static/VideoLubia.mp4
-   :width: 500
-   :height: 300
+.. raw:: html
 
-.. video:: ../_static/VideoLubia2.mp4
-   :width: 500
-   :height: 300
+    <embed>
+        <div align="center">
+         <video width="500" height="300" controls>
+            <source src="../_static/VideoLubia.mp4" type="video/mp4">
+         </video>
+      </div>
+    </embed>
+
+.. raw:: html
+
+    <embed>
+        <div align="center">
+         <video width="500" height="300" controls>
+            <source src="../_static/VideoLubia2.mp4" type="video/mp4">
+         </video>
+      </div>
+    </embed>
 
 |br|
 
