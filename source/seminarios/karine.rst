@@ -44,7 +44,7 @@ Melhores momentos
 ------------------
 
 *Vídeos dos melhores momentos, selecionados pelos alunos*
-|br|
+
 .. raw:: html
 
     <embed>
