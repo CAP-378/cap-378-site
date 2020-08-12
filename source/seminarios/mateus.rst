@@ -57,3 +57,4 @@ Melhores momentos
 Comentários dos alunos
 -----------------------
 
+**Yuri**: A apresentação foi bem aprofundada e clara sobre o programa Queimadas do INPE. Nela foi citado os programas utilizados para reconhecer os focos de queimada (BDQueimadas, Estatísticas e Dados Abertos), a área queimada (CIMAN e TerraMA2Q) e risco de fogo (SISAM e Boletins). Após expor as ferramentas utilizadas, foi explicado a diferença entre o que é um foco ativo e uma cicatriz de área queimada. A partir do entendimento dos conceitos e qual ferramenta utilizar, foi demonstrado como são feitas as análises de foco de queimada em determinada área ao decorrer do tempo. 
