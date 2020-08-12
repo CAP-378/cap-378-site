@@ -14,7 +14,7 @@ Esta disciplina tem por objetivo situar como a computação como disciplina se i
    :caption: Conteúdo:
    
    escala
-   material
+   .. material
    
 .. toctree::
    :maxdepth: 1
@@ -25,7 +25,8 @@ Esta disciplina tem por objetivo situar como a computação como disciplina se i
    seminarios/claudio.rst
    seminarios/thales.rst
    seminarios/lubia.rst
-   seminarios/matheus.rst
+   seminarios/karine.rst
+   seminarios/mateus.rst
 
 .. Índice
 .. ==================

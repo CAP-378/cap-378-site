@@ -15,8 +15,6 @@ Suspendisse orci mauris, viverra et faucibus nec, elementum sed mi. Vivamus vive
 Comentários dos alunos
 -----------------------
 
-Suspendisse orci mauris, viverra et faucibus nec, elementum sed mi. Vivamus viverra ipsum a tellus lacinia, vitae blandit nisi eleifend. 
-
 .. **Fulano**: Suspendisse orci mauris, viverra et faucibus nec, elementum sed mi. Vivamus viverra ipsum a tellus lacinia, vitae blandit nisi eleifend. Morbi facilisis condimentum tincidunt. Suspendisse dapibus nisl vitae dapibus aliquet. Vivamus vulputate hendrerit scelerisque. Nunc commodo nibh ut condimentum consequat. 
 
 .. **Ciclano**: Suspendisse orci mauris, viverra et faucibus nec, elementum sed mi. Vivamus viverra ipsum a tellus lacinia, vitae blandit nisi eleifend. Morbi facilisis condimentum tincidunt. Suspendisse dapibus nisl vitae dapibus aliquet. Vivamus vulputate hendrerit scelerisque. Nunc commodo nibh ut condimentum consequat. 
