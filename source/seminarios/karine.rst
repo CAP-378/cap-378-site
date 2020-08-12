@@ -28,6 +28,8 @@ Esta palestra foi ministrada pela Dra. Karine Reis Ferreira (INPE), com o títul
       </div>
     </embed>
 
+|br|
+
 .. raw:: html
 
     <embed>
@@ -36,11 +38,13 @@ Esta palestra foi ministrada pela Dra. Karine Reis Ferreira (INPE), com o títul
       </div>
     </embed>
 
+|br|
+
 Melhores momentos
 ------------------
 
 *Vídeos dos melhores momentos, selecionados pelos alunos*
-
+|br|
 .. raw:: html
 
     <embed>
