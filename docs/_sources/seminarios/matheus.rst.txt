@@ -1,0 +1,35 @@
+Observação da Terra e Programa Queimadas
+==========================================
+
+.. |br| raw:: html
+
+   <br />
+
+O Seminário de Observação da Terra e Programa Queimadas, apresentado pelo Msc. Mateus Macur, teve por objetivo apresentar o Programa Queimadas do INPE e os principais conceitos de Sensoriamento Remoto e Computação Aplicada envolvidos no programa.
+
+.. image:: ../_static/queimadas/1_apresentacao.png
+   :scale: 50 %
+   :align: center
+
+.. image:: ../_static/queimadas/2_visao_geral.png
+   :scale: 27 %
+   :align: center
+
+Melhores momentos
+-------------------
+
+*Vídeos dos melhores momentos, selecionados pelos alunos*
+
+.. video:: ../_static/queimadas/video-1.mp4
+   :width: 500
+   :height: 300
+
+.. video:: ../_static/queimadas/video-3.mp4
+   :width: 500
+   :height: 300
+
+|br|
+
+Comentários dos alunos
+-----------------------
+
