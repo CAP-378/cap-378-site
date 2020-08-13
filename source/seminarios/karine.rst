@@ -7,7 +7,6 @@ Projeto Brazil Data Cube
 
 Esta palestra foi ministrada pela Dra. Karine Reis Ferreira (INPE), com o título "Projeto Brazil Data Cube". O seminário abordou os objetivos e a principal motivação do projeto, a arquitetura do cubo de dados, como são feitas as análises das séries temporais de imagens de satélites e como essas imagens são armazenadas nos cubos, o particionamento do território brasileiro em grades (tillings), além de todo o procedimento para tratar, reconhecer e processar as cenas para poder analisar o uso e cobertura da Terra. 
 
-
 |br|
 
 .. raw:: html
@@ -68,4 +67,6 @@ Melhores momentos
 Comentários dos alunos
 -----------------------
 
-**Yuri**: Foi um seminário excelente, muito bem didático e explicativo. Ao decorrer da palestra foi abordado o funcionamento do projeto Brazil Data Cube, seus objetivos e motivações, a análise das imagens utilizando as séries temporais e o índice NDVI, a arquitetura do cubo de dados, os serviços disponibilizados para poder obter a trajetória de uso e cobertura da Terra e foi mostrado como é feito a junção das iamgens, pegando primeiro as diferentes grades selecionadas e juntando-as, para depois realizar o ajuste da imagem através de cortes, e, com isso, retornando uma cena da área selecionada. Além dessas aplicações, foi explicitado também que as imagens passam por procedimentos de média, mediana e pilha para poder analisar a composição da imagem e identificar qual objeto está sendo representado.
+**Yuri**: Foi um seminário excelente, muito bem didático e explicativo. Ao decorrer da palestra foi abordado o funcionamento do projeto Brazil Data Cube, seus objetivos e motivações, a análise das imagens utilizando as séries temporais e o índice NDVI, a arquitetura do cubo de dados, os serviços disponibilizados para poder obter a trajetória de uso e cobertura da Terra e foi mostrado como é feito a junção das imagens, pegando primeiro as diferentes grades selecionadas e juntando-as, para depois realizar o ajuste da imagem através de cortes, e, com isso, retornando uma cena da área selecionada. Além dessas aplicações, foi explicitado também que as imagens passam por procedimentos de média, mediana e pilha para poder analisar a composição da imagem e identificar qual objeto está sendo representado.
+
+**Felipe Carlos**: O seminário apresentado pela Dra. Karine Reis foi bastante esclarecedor, neste, foi feito a apresentação do projeto Brazil Data Cube, que tem por objetivo gerar cubos de dados multidimensionais de Observação da Terra para todo território brasileiro. Através da apresentação dos principais desafios técnico-científicos envolvidos no processo de desenvolvimento do projeto, foi possível entender toda sua estrutura organizacional, arquitetura de serviços e ferramentas e produtos de dados gerados.
