@@ -48,9 +48,8 @@ Melhores momentos
 
     <embed>
         <div align="center">
-         <video width="500" height="300" controls>
-            <iframe width="560" height="315" src="https://www.youtube.com/embed/eVAjQNvQdO8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-         </video>
+            <iframe width="560" height="315" src="https://www.youtube.com/embed/eVAjQNvQdO8">
+            </iframe>
       </div>
     </embed>
 
@@ -58,9 +57,8 @@ Melhores momentos
 
     <embed>
         <div align="center">
-         <video width="500" height="300" controls>
-            <iframe width="560" height="315" src="https://www.youtube.com/embed/D6NrneVir3o" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-         </video>
+            <iframe width="560" height="315" src="https://www.youtube.com/embed/D6NrneVir3o">
+            </iframe>
       </div>
     </embed>
 
