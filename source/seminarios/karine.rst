@@ -14,7 +14,7 @@ Esta palestra foi ministrada pela Dra. Karine Reis Ferreira (INPE), com o títul
 
     <embed>
         <div align="center">
-         <img src="../_static/Karine6.png" style="width: 60vw; min-width: 330px;">
+         <img src="../_static/karine6.png" style="width: 60vw; min-width: 330px;">
       </div>
     </embed>
 
