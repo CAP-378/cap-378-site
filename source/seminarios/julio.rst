@@ -55,3 +55,5 @@ Comentários dos alunos
 
 **Natália**: O Dr. Julio apresentou de maneira objetiva e clara o Programa CBERS e a parceria entre Brasil e China que se deu no desenvolvimento do mesmo. Durante o seminário também foram explorados detalhes sobre órbitas, características técnicas do satélite e exemplos de câmeras, além de suas evoluções a cada versão. Foi possível perceber a importância de um satélite com um bom desempenho e uma ótima coleta de imagens da superfície terrestre para o abastecimento do banco de dados do INPE.
 
+**Fernando** O presente seminário, ministrado pelo Dr. Júlio, membro da Divisão de Procesamento de Imagens (DPI) - INPE, nos trouxe esclarecimentos desde o embasamento teórico associado á satélites, suas órbitas, características técnicas, etc..., até o que temos de estado da arte no âmbito de sátelites brasileiros. Eu particularmente não conhecia o programa CBERS e esta palestra me proporcionou significativa aprendizagem. 
+
