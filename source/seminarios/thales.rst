@@ -5,12 +5,25 @@ Deep Learning e problemas de classificação em observação da Terra
 
    <br />
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed aliquam est nulla. Vestibulum vel tortor vel urna mollis ornare. Donec elit mi, dictum in risus id, placerat molestie magna. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Pellentesque quis elit vitae orci tincidunt viverra eleifend ut lacus. Vivamus mattis orci a justo gravida elementum. Suspendisse fermentum non ex eget aliquam. Donec ligula mi, sagittis sit amet nibh id, lobortis scelerisque mi. Aenean commodo dolor dignissim ex congue convallis. Suspendisse orci mauris, viverra et faucibus nec, elementum sed mi. Vivamus viverra ipsum a tellus lacinia, vitae blandit nisi eleifend. Morbi facilisis condimentum tincidunt. Suspendisse dapibus nisl vitae dapibus aliquet. Vivamus vulputate hendrerit scelerisque. Nunc commodo nibh ut condimentum consequat. 
+Proferido pelo Dr. Thales Sehn Körting (INPE), esse seminário abordou os problemas de classificação em observação da Terra e técnicas de deep learning nesse contexto.
+
+.. image:: ../_static/Thales1.png
+   :scale: 50 %
+   :align: center
+
+.. image:: ../_static/Thales2.png
+   :scale: 50 %
+   :align: center
+
 
 Melhores momentos
 ------------------
 
-Suspendisse orci mauris, viverra et faucibus nec, elementum sed mi. Vivamus viverra ipsum a tellus lacinia, vitae blandit nisi eleifend. Morbi facilisis condimentum tincidunt. Suspendisse dapibus nisl vitae dapibus aliquet. Vivamus vulputate hendrerit scelerisque. Nunc commodo nibh ut condimentum consequat. 
+*Vídeo dos melhores momentos, selecionados pelos alunos*
+
+.. video:: ../_static/ThalesVideo.mp4
+   :width: 500
+   :height: 300
 
 Comentários dos alunos
 -----------------------
