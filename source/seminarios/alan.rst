@@ -12,7 +12,7 @@ O Dr. Alan Calheiros (INPE) ministrou este seminário abordando a área do Senso
 
     <embed>
         <div align="center">
-         <img src="../_static/Alan1.png" style="width: 55vw; min-width: 330px;">
+         <img src="../_static/Alan1.PNG" style="width: 55vw; min-width: 330px;">
       </div>
     </embed>
 
@@ -21,7 +21,7 @@ O Dr. Alan Calheiros (INPE) ministrou este seminário abordando a área do Senso
 
     <embed>
         <div align="center">
-         <img src="../_static/Alan2.png" style="width: 55vw; min-width: 330px;">
+         <img src="../_static/Alan2.PNG" style="width: 55vw; min-width: 330px;">
       </div>
     </embed>
 
