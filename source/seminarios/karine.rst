@@ -14,7 +14,7 @@ Esta palestra foi ministrada pela Dra. Karine Reis Ferreira (INPE), com o títul
 
     <embed>
         <div align="center">
-         <img src="../_static/Karine1.png" style="width: 60vw; min-width: 330px;">
+         <img src="../_static/Karine6.png" style="width: 60vw; min-width: 330px;">
       </div>
     </embed>
 
@@ -24,7 +24,7 @@ Esta palestra foi ministrada pela Dra. Karine Reis Ferreira (INPE), com o títul
 
     <embed>
         <div align="center">
-         <img src="../_static/Karine2.png" style="width: 30vw; min-width: 115px;">
+         <img src="../_static/Karine5.png" style="width: 42vw; min-width: 231px;">
       </div>
     </embed>
 
@@ -34,7 +34,27 @@ Esta palestra foi ministrada pela Dra. Karine Reis Ferreira (INPE), com o títul
 
     <embed>
         <div align="center">
-         <img src="../_static/Karine3.png" style="width: 30vw; min-width: 115px;">
+         <img src="../_static/Karine1.png" style="width: 42vw; min-width: 213px;">
+      </div>
+    </embed>
+
+|br|
+
+.. raw:: html
+
+    <embed>
+        <div align="center">
+         <img src="../_static/Karine2.png" style="width: 42vw; min-width: 213px;">
+      </div>
+    </embed>
+
+|br|
+
+.. raw:: html
+
+    <embed>
+        <div align="center">
+         <img src="../_static/Karine3.png" style="width: 42vw; min-width: 213px;">
       </div>
     </embed>
 
