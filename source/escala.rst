@@ -24,7 +24,7 @@ Em cada semana, apresentações são feitas. A tabela abaixo apresenta a relaç�
 +-------+-----------------------------------------------------------------------------------------------------------------------------------+---------------+
 | 12/08 | Seminário 8: Dr. Alan Calheiros: Sensoriamento Remoto da Atmosfera                                                                |    Fernando   |
 +-------+-----------------------------------------------------------------------------------------------------------------------------------+---------------+
-| 19/08 | Aula 2: espaço destinado exclusivamente aos alunos da disciplina - discussões sobre o vídeo resumo da disciplina                  |    Leonardo   |
+| 19/08 | Espaço destinado exclusivamente aos alunos da disciplina                                                                          |    Leonardo   |
 +-------+-----------------------------------------------------------------------------------------------------------------------------------+---------------+
-| 26/08 | Aula 3: espaço destinado exclusivamente aos alunos da disciplina - apresentação do vídeo resumo da disciplina e discussões finais |    Leonardo   |
+| 26/08 | Espaço destinado exclusivamente aos alunos da disciplina                                                                          |    Leonardo   |
 +-------+-----------------------------------------------------------------------------------------------------------------------------------+---------------+
