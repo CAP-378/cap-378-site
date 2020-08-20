@@ -5,12 +5,50 @@ Sensoriamento Remoto da Atmosfera
 
    <br />
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed aliquam est nulla. Vestibulum vel tortor vel urna mollis ornare. Donec elit mi, dictum in risus id, placerat molestie magna. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Pellentesque quis elit vitae orci tincidunt viverra eleifend ut lacus. Vivamus mattis orci a justo gravida elementum. Suspendisse fermentum non ex eget aliquam. Donec ligula mi, sagittis sit amet nibh id, lobortis scelerisque mi. Aenean commodo dolor dignissim ex congue convallis. Suspendisse orci mauris, viverra et faucibus nec, elementum sed mi. Vivamus viverra ipsum a tellus lacinia, vitae blandit nisi eleifend. Morbi facilisis condimentum tincidunt. Suspendisse dapibus nisl vitae dapibus aliquet. Vivamus vulputate hendrerit scelerisque. Nunc commodo nibh ut condimentum consequat. 
+O Dr. Alan Calheiros (INPE) ministrou este seminário abordando a área do Sensoriamento Remoto da Atmosfera. Foi amplamente discutido sobre o uso de satélites, radares e outros equipamentos associados ao monitoramento e acompanhamento da atmosfera terrestre. 
+
+
+.. raw:: html
+
+    <embed>
+        <div align="center">
+         <img src="../_static/Alan1.PNG" style="width: 55vw; min-width: 330px;">
+      </div>
+    </embed>
+
+.. raw:: html
+.. raw:: html
+
+    <embed>
+        <div align="center">
+         <img src="../_static/Alan2.PNG" style="width: 55vw; min-width: 330px;">
+      </div>
+    </embed>
+
+.. raw:: html
 
 Melhores momentos
 ------------------
 
-Suspendisse orci mauris, viverra et faucibus nec, elementum sed mi. Vivamus viverra ipsum a tellus lacinia, vitae blandit nisi eleifend. Morbi facilisis condimentum tincidunt. Suspendisse dapibus nisl vitae dapibus aliquet. Vivamus vulputate hendrerit scelerisque. Nunc commodo nibh ut condimentum consequat. 
+Vídeos dos melhores momentos, selecionados pelos alunos.
+
+.. raw:: html
+
+    <embed>
+        <div align="center">
+            <iframe width="560" height="315" src="https://www.youtube.com/watch?v=IWYBRhTs71E">
+            </iframe>
+      </div>
+    </embed>
+
+.. raw:: html
+
+    <embed>
+        <div align="center">
+            <iframe width="560" height="315" src="https://www.youtube.com/watch?v=pTWpu6Rsyls">
+            </iframe>
+      </div>
+    </embed>
 
 Comentários dos alunos
 -----------------------
@@ -20,3 +58,5 @@ Comentários dos alunos
 **Felipe Carlos**: No seminário apresentado pelo Dr. Alan Calheiros, os diversos conceitos envolvidos no Sensoriamento Remoto da Atmosfera (SRA) foram elencados. Em sua apresentação, o professor mostra um panorama geral das técnicas e instrumentos que são utilizados nas pesquisas de SRA, apresentando os detalhes envolvidos, como o uso das equações de transferência radiativa e a importância e necessidade de satélites geoestacionário e polares para os estudos da área. O que achei mais interessante é de fato, o objetivo, por ter realizado trabalhos em Sensoriamento Remoto de Águas Interiores, venho com a ideia de sempre remover a influência da atmosfera, já que essa causa interferência nas análises, principalmente em sistemas aquáticos, e considerando a apresentação do professor Alan, foi possível perceber que há muito a ser explorado neste contexto, não apenas para o entendimento e remoção de sua influência.
 
 **Natália**: Em seu seminário sobre o sensoriamento remoto da atmosfera, o Dr. Alan Calheiros apresentou como são feitas as análises, a representação dos dados e os princípios do sensoriamento remoto, mostrando como é a ciência do sistema terrestre. Mais uma vez, vimos a influência da órbita dos satélites na extração dos dados, e que tipos diferentes de satélites captam diferentes informações da superfície. Foi uma palestra interessante que fechou a disciplina com chave de ouro.
+
+**Fernando**: Neste seminário ministrado pelo Dr. Alan Calheiro foram discutidos tópicos associados ao uso do sensoriamento remoto associado à Meteorologia, desde satélites até radares e radiômetros. Este tema é de extrema relevância para a pesquisa cientifica brasileira, tendo em vista que nosso país possui poucos dados meteorológicos observados, necessitando assim de todas as ferramentas disponíveis para o melhor entendimento e monitoramento da atmosfera. 
