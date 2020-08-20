@@ -17,7 +17,6 @@ O Dr. Alan Calheiros (INPE) ministrou este seminário abordando a área do Senso
     </embed>
 
 .. raw:: html
-.. raw:: html
 
     <embed>
         <div align="center">
@@ -25,7 +24,6 @@ O Dr. Alan Calheiros (INPE) ministrou este seminário abordando a área do Senso
       </div>
     </embed>
 
-.. raw:: html
 
 Melhores momentos
 ------------------
@@ -36,7 +34,7 @@ Vídeos dos melhores momentos, selecionados pelos alunos.
 
     <embed>
         <div align="center">
-            <iframe width="560" height="315" src="https://www.youtube.com/watch?v=IWYBRhTs71E">
+            <iframe width="560" height="315" src="https://www.youtube.com/embed/IWYBRhTs71E">
             </iframe>
       </div>
     </embed>
@@ -45,7 +43,7 @@ Vídeos dos melhores momentos, selecionados pelos alunos.
 
     <embed>
         <div align="center">
-            <iframe width="560" height="315" src="https://www.youtube.com/watch?v=pTWpu6Rsyls">
+            <iframe width="560" height="315" src="https://www.youtube.com/embed/pTWpu6Rsyls">
             </iframe>
       </div>
     </embed>
