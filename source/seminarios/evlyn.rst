@@ -42,4 +42,4 @@ Comentários dos alunos
 
 **Felipe Perin**: Muito interessante entender o quanto a tecnologia e a computação em geral evoluíram durante a corrida espacial. Várias pesquisas foram iniciadas e concluídas durante esse período e até hoje temos grande reflexo dessa evolução no nosso dia a dia. Também foi frisado a importância de se observar a terra e conhecer o espaço onde vivemos por um angulo diferente. O sensoriamento remoto abrange várias áreas do conhecimento, dessa forma, a contribuição cientifica pode ser enorme ao abordar este tema.
 
-
+**Giovanni**: A Doutora Evlyn nos passou um grande contexto histórico de como a corrida espacial influenciou nas tecnologias do dia de hoje, falou sobre os marcos importantes de lançamento de foguetes e foi desenvolvendo o pensamento até chegar na tecnologia de hoje em dia. Ela nos conta sobre os projetos de lançamentos de naves em órbita da terra, projetos de treinamento de astronautas e de estudos feitos para a miniaturização de hardware a fim de desenvolver a computação embarcada por um todo.
