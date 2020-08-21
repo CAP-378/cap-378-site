@@ -39,3 +39,7 @@ Comentários dos alunos
 **Natália**: O seminário mostrou o contexto histórico da corrida espacial e como este influenciou no desenvolvimento de diversas pesquisas científicas que foram primordiais para a ciência atual. A Dra. Evlyn explicou como se deu a otimização dos processamentos utilizando hardwares menores nos computadores da época e como isso influenciou na obtenção de dados por satélites, possibilitando o imageamento da superfıcie terrestre.
 
 **Fernando** Esta foi uma ótima escolha para iniciar a sessão de palestras, onde para um curso multidisciplinar envolvendo as aplicações da computação e para uma disciplina tratando sobre a observação da terra, o sensoriamento remoto se encaixa perfeitamente e com grande chance de ser utilizado por boa parte dos alunos durante suas pesquisas e carreiras. Logo, conhecer a evolução deste, bem como algumas aplicações e peculiaridades foi extremamente importante.
+
+**Felipe Perin**: Muito interessante entender o quanto a tecnologia e a computação em geral evoluíram durante a corrida espacial. Várias pesquisas foram iniciadas e concluídas durante esse período e até hoje temos grande reflexo dessa evolução no nosso dia a dia. Também foi frisado a importância de se observar a terra e conhecer o espaço onde vivemos por um angulo diferente. O sensoriamento remoto abrange várias áreas do conhecimento, dessa forma, a contribuição cientifica pode ser enorme ao abordar este tema.
+
+
