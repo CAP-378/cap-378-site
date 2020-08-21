@@ -65,3 +65,4 @@ Comentários dos alunos
 
 **Fernando**: A apresentação do Mateus sobre o programa Queimadas do INPE trouxe diversos esclarecimentos, tanto sobre as técnicas utilizadas (por exemplo o Sensoriamento Remoto), quanto sobre os distintos conceitos de focos ativos e cicatrizes. Este assunto está fortemente relacionado à parte meteorológia e foi de significativa importância ter a oportunidade de aprender um pouco mais sobre o programa.
 
+**Felipe Perin**: Neste seminário foi possível conhecer o Programa Queimadas do INPE e entender como os focos são detectados. O palestrante explanou muito bem o assunto e conseguiu explicar de forma clara como o processo acontece e as importantes diferenças entre o foco e as queimadas em si e como elas impactam os estudos e as analises dos dados. Com isso é possível montar estratégias de prevenção e se antecipar diante desses eventos para evitar tragédias maiores.
