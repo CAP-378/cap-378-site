@@ -5,7 +5,7 @@ Deep Learning e problemas de classificação em observação da Terra
 
    <br />
 
-Proferido pelo Dr. Thales Sehn Körting (INPE), esse seminário abordou os problemas de classificação em observação da Terra e técnicas de deep learning nesse contexto.
+Proferido pelo Dr. Thales Sehn Körting (INPE), esse seminário abordou os problemas de classificação em observação da Terra e técnicas de deep learning nesse contexto. O material da apresentação está disponível no github (https://bit.ly/3l7mFZU)
 
 .. raw:: html
 
