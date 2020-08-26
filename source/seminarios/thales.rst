@@ -53,7 +53,7 @@ Comentários dos alunos
 
 **Natália**: Neste seminário, o Dr. Thales mostrou de forma simplificada o que acontece por trás dos códigos de deep learning voltados para o sensoriamento remoto, apresentando os algoritmos adotados e como eles funcionam. Foi possível perceber o poder das técnicas de machine learning e entender como funcionam as redes neurais na classificação de objetos numa imagem.
 
-**Fernando**: O seminário apresentado pelo Dr. Thalhes foi extremamente produtivo, onde o palestrante conseguiu passar os conceitos e técnicas aplicadas envolvendo deep learning associado à classificação de objetos em imagens de modo que mesmo sendo um ouvinte leigo na área fui capaz de compreender o processo envolvido e sua importância. 
+**Fernando**: O seminário apresentado pelo Dr. Thales foi extremamente produtivo, onde o palestrante conseguiu passar os conceitos e técnicas aplicadas envolvendo deep learning associado à classificação de objetos em imagens de modo que mesmo sendo um ouvinte leigo na área fui capaz de compreender o processo envolvido e sua importância. 
 
 **Felipe Perin**: Gostei bastante desse seminário, pois ele vai de encontro com a minha proposta de pesquisa, que aborda o aprendizado de máquina para reconhecer padrões em imagens de satélite. O Dr. Thales demonstrou as diferentes técnicas que são utilizadas e como elas se comportam por baixo dos panos. As dificuldades e desafios também foram abordados, dessa forma foi possível pensar em novas estratégias e metodologias para a pesquisa.
 
