@@ -5,7 +5,7 @@ Conceitos de sensoriamento remoto e o histórico de missões de observação da 
 
    <br />
 
-O primeiro seminário da disciplina foi proferido pela Dra. Evlyn Novo (INPE), com o título "Conceitos de sensoriamento remoto e o histórico de missões de observação da Terra".
+O primeiro seminário da disciplina foi proferido pela Dra. Evlyn Novo (INPE), com o título "Conceitos de sensoriamento remoto e o histórico de missões de observação da Terra". Slides da apresentação (https://bit.ly/31APvdG)
 
 .. raw:: html
 
