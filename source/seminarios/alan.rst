@@ -39,15 +39,6 @@ Vídeos dos melhores momentos, selecionados pelos alunos.
       </div>
     </embed>
 
-.. raw:: html
-
-    <embed>
-        <div align="center">
-            <iframe width="560" height="315" src="https://www.youtube.com/embed/pTWpu6Rsyls">
-            </iframe>
-      </div>
-    </embed>
-
 Comentários dos alunos
 -----------------------
 
