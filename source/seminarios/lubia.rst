@@ -6,7 +6,7 @@ Histórico  de Geotecnologias do INPE
 
    <br />
 
-Proferido pela Dra. Lubia Vinhas (INPE), esse seminário versou sobre o histórico, situação atual e possíveis avanços da Geotecnologia.
+Proferido pela Dra. Lubia Vinhas (INPE), esse seminário versou sobre o histórico, situação atual e possíveis avanços da Geotecnologia (https://bit.ly/321g23U).
 
 .. raw:: html
 
