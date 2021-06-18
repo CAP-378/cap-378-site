@@ -18,7 +18,7 @@
 # -- Project information -----------------------------------------------------
 
 project = 'Tópicos em Observação da Terra'
-copyright = '2020, Computação Aplicada'
+copyright = '2021, Computação Aplicada'
 author = 'Leonardo'
 
 # The full version, including alpha/beta/rc tags
