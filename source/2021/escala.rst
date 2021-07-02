@@ -10,7 +10,7 @@ Em cada semana, apresentações são feitas. A tabela abaixo apresenta a relaç�
 +-------+-------------------------------------------------------------------------------------------------------------------------------+---------------+---------------+
 | 23/06 |  Seminário 1 - Conceitos de Sensoriamento Remoto e o Histórico de Missões de Observação da Terra, Dra. Evlyn Novo             |  Abner Anjos  |    Rogério    |
 +-------+-------------------------------------------------------------------------------------------------------------------------------+---------------+---------------+
-| 30/06 |  Seminário 2 - Satélites de Observação da Terra: Tecnologias & Aplicações, Dr. Julia D'Alge                                   |    Sabrina    |    Gabriel    |
+| 30/06 |  Seminário 2 - Satélites de Observação da Terra: Tecnologias & Aplicações, Dr. Julio D'Alge                                   |    Sabrina    |    Gabriel    |
 +-------+-------------------------------------------------------------------------------------------------------------------------------+---------------+---------------+
 | 07/07 |  Seminário 3 - Observação da Terra e Programa Queimadas, Msc. Mateus Macul                                                    |     Cátia     |   Marcelly    |
 +-------+-------------------------------------------------------------------------------------------------------------------------------+---------------+---------------+
