@@ -7,13 +7,13 @@ A corrida espacial, os avanços da computação e sua contribuição para o sens
 
 O primeiro seminário da disciplina em 2021 foi proferido pela Dra. Evlyn M. L. M. Novo (INPE), com o título "A corrida espacial, os avanços da computação e sua contribuição para o sensoriamento remoto da superfície terrestre".
 
-Slides da apresentação (XXXX)
+Slides da apresentação  (https://inpe-cap-378.netlify.app/_static/2021/evlyn/ppt_evlyn_novo_2021.pptx)
 
 .. raw:: html
 
     <embed>
         <div align="center">
-         <img src="../_static/2021/evlyn/capa.png" style="width: 55vw; min-width: 330px;">
+         <img src="../../_static/2021/evlyn/capa.png" style="width: 55vw; min-width: 330px;">
       </div>
     </embed>
 
@@ -23,50 +23,57 @@ Melhores momentos
 
 *Vídeos dos melhores momentos, selecionados pelos alunos*
 
+**A corrida espacial**
+
 .. raw:: html
 
     <embed>
         <div align="center">
-         <img src="../_static/2021/evlyn/colagem1.png" style="width: 55vw; min-width: 330px;">
+         <img src="../../_static/2021/evlyn/colagem1.png" style="width: 55vw; min-width: 330px;">
       </div>
     </embed>
 
 .. raw:: html
 
-<embed>
+    <embed>
     <div align="center">
         <video width="500" height="300" controls>
         <source src="../../_static/2021/evlyn/evlyn_video1.mp4" type="video/mp4">
         </video>
     </div>
-</embed>
+    </embed>
 
-<embed>
-    <div align="center">
-        <video width="500" height="300" controls>
-        <source src="../../_static/2021/evlyn/evlyn_video2.mp4" type="video/mp4">
-        </video>
-    </div>
-</embed>
+.. raw:: html
+
+    <embed>
+        <div align="center">
+            <video width="500" height="300" controls>
+            <source src="../../_static/2021/evlyn/evlyn_video2.mp4" type="video/mp4">
+            </video>
+        </div>
+    </embed>
+
+
+**A evolução do Sensoriamento Remoto**
 
 
 .. raw:: html
 
     <embed>
         <div align="center">
-         <img src="../_static/2021/evlyn/colagem2.png" style="width: 55vw; min-width: 330px;">
+         <img src="../../_static/2021/evlyn/colagem2.png" style="width: 55vw; min-width: 330px;">
       </div>
     </embed>
 
 .. raw:: html
 
-<embed>
+    <embed>
     <div align="center">
         <video width="500" height="300" controls>
         <source src="../../_static/2021/evlyn/evlyn_video3.mp4" type="video/mp4">
         </video>
     </div>
-</embed>
+    </embed>
 
 
 A turma e a palestrante:
@@ -75,7 +82,7 @@ A turma e a palestrante:
 
     <embed>
         <div align="center">
-         <img src="../_static/2021/evlyn/turma.png" style="width: 55vw; min-width: 330px;">
+         <img src="../../_static/2021/evlyn/turma.png" style="width: 55vw; min-width: 330px;">
       </div>
     </embed>
 
@@ -83,9 +90,13 @@ A turma e a palestrante:
 
 
 
-Assita a apresentação completa em: (https://bit.ly/31APvdG)
+Assita a apresentação completa em: (https://youtu.be/jhjrSmPTgYY)
 
+Links recomendados pela palestrante :
 
+(https://www.youtube.com/watch?v=aDiy-5QmGgU)
+
+(https://www.youtube.com/watch?v=EaX8l6LF9Vo&t)
 
 Comentários dos alunos
 -----------------------
