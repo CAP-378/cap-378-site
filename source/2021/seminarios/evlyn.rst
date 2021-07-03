@@ -7,13 +7,13 @@ A corrida espacial, os avanços da computação e sua contribuição para o sens
 
 O primeiro seminário da disciplina em 2021 foi proferido pela Dra. Evlyn M. L. M. Novo (INPE), com o título "A corrida espacial, os avanços da computação e sua contribuição para o sensoriamento remoto da superfície terrestre".
 
-Slides da apresentação (XXXX)
+Slides da apresentação  (https://inpe-cap-378.netlify.app/_static/2021/evlyn/ppt_evlyn_novo_2021.pptx)
 
 .. raw:: html
 
     <embed>
         <div align="center">
-         <img src="../_static/2021/evlyn/capa.png" style="width: 55vw; min-width: 330px;">
+         <img src="../../_static/2021/evlyn/capa.png" style="width: 55vw; min-width: 330px;">
       </div>
     </embed>
 
@@ -23,50 +23,57 @@ Melhores momentos
 
 *Vídeos dos melhores momentos, selecionados pelos alunos*
 
+**A corrida espacial**
+
 .. raw:: html
 
     <embed>
         <div align="center">
-         <img src="../_static/2021/evlyn/colagem1.png" style="width: 55vw; min-width: 330px;">
+         <img src="../../_static/2021/evlyn/colagem1.png" style="width: 55vw; min-width: 330px;">
       </div>
     </embed>
 
 .. raw:: html
 
-<embed>
+    <embed>
     <div align="center">
         <video width="500" height="300" controls>
         <source src="../../_static/2021/evlyn/evlyn_video1.mp4" type="video/mp4">
         </video>
     </div>
-</embed>
+    </embed>
 
-<embed>
-    <div align="center">
-        <video width="500" height="300" controls>
-        <source src="../../_static/2021/evlyn/evlyn_video2.mp4" type="video/mp4">
-        </video>
-    </div>
-</embed>
+.. raw:: html
+
+    <embed>
+        <div align="center">
+            <video width="500" height="300" controls>
+            <source src="../../_static/2021/evlyn/evlyn_video2.mp4" type="video/mp4">
+            </video>
+        </div>
+    </embed>
+
+
+**A evolução do Sensoriamento Remoto**
 
 
 .. raw:: html
 
     <embed>
         <div align="center">
-         <img src="../_static/2021/evlyn/colagem2.png" style="width: 55vw; min-width: 330px;">
+         <img src="../../_static/2021/evlyn/colagem2.png" style="width: 55vw; min-width: 330px;">
       </div>
     </embed>
 
 .. raw:: html
 
-<embed>
+    <embed>
     <div align="center">
         <video width="500" height="300" controls>
         <source src="../../_static/2021/evlyn/evlyn_video3.mp4" type="video/mp4">
         </video>
     </div>
-</embed>
+    </embed>
 
 
 A turma e a palestrante:
@@ -75,7 +82,7 @@ A turma e a palestrante:
 
     <embed>
         <div align="center">
-         <img src="../_static/2021/evlyn/turma.png" style="width: 55vw; min-width: 330px;">
+         <img src="../../_static/2021/evlyn/turma.png" style="width: 55vw; min-width: 330px;">
       </div>
     </embed>
 
@@ -83,9 +90,13 @@ A turma e a palestrante:
 
 
 
-Assita a apresentação completa em: (https://bit.ly/31APvdG)
+Assita a apresentação completa em: (https://youtu.be/HFPtVSpAc9A)
 
+Links recomendados pela palestrante:
 
+(https://www.youtube.com/watch?v=aDiy-5QmGgU)
+
+(https://www.youtube.com/watch?v=EaX8l6LF9Vo&t)
 
 Comentários dos alunos
 -----------------------
@@ -110,3 +121,5 @@ Comentários dos alunos
 **Matheus Elis** - “A Doutora Evlyn abordou no seminário toda uma evolução histórica da observação da terra por satélites que foi impulsionada desde a corrida espacial durante o período da guerra fria até os dias de hoje. Também foi abordada de forma clara e didática o modo que a computação influenciou e contribuiu para todo esse processo e desenvolvimento. Além disso a Doutora Evlyn mostrou alguns caminhos para que as pessoas que tiverem interesse no assunto possam continuar estudando e aprendendo cada vez mais sobre o tema.”
 
 **Baggio Castro** - “Foi uma ótima palestra da Profa. Dra. Evyln que abordou a evolução histórica das tecnologias de sensoriamento remoto e o impacto da computação para o desenvolvimento destas tecnologias. É de suma importância contextualizar e acompanhar a evolução histórica da área que está se atuando, foi ótimo ter toda essa contextualização por uma pessoa que acompanhou essa evolução de perto”.
+
+**Gabriel** - “O seminário da Dra. Evyln abordou de forma bem clara os conceitos de sensoriamento remoto e de toda a história sobre os avanços tecnológicos e computacionais em relação ao espaço até chegarmos onde estamos hoje. Falou sobre a corrida espacial e da sua importância para estes avanços, sobre as primeiras missões realizadas ao espaço e também abordou assuntos relacionados a sensoriamento remoto como, propriedades das imagens de satélite, tipos de sensores, épocas de lançamento, comprimento de ondas entre vários outros assuntos. Gostei muito do seminário e consegui conhecer e aprender mais sobre estes tópicos.”
