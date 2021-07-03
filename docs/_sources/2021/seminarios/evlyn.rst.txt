@@ -90,9 +90,9 @@ A turma e a palestrante:
 
 
 
-Assita a apresentação completa em: (https://youtu.be/jhjrSmPTgYY)
+Assita a apresentação completa em: (https://youtu.be/HFPtVSpAc9A)
 
-Links recomendados pela palestrante :
+Links recomendados pela palestrante:
 
 (https://www.youtube.com/watch?v=aDiy-5QmGgU)
 
