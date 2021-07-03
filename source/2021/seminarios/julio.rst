@@ -38,11 +38,20 @@ Melhores momentos
 
     <embed>
         <div align="center">
-            <video width="500" height="300" controls>
-            <source src="../../_static/2021/julio/trechos1.mp4" type="video/mp4">
-            </video>
+            <iframe width="500" height="300" 
+                src="https://www.youtube.com/embed/_YFubqvI4h0?controls=0" 
+                title="Seminário - Satélites de Observação da Terra: Tecnologias & Aplicações, Dr. Julio D'Alge" 
+                frameborder="0" 
+                allow="accelerometer; 
+                autoplay; 
+                clipboard-write; 
+                encrypted-media; 
+                gyroscope; 
+                picture-in-picture" 
+                allowfullscreen>
+            </iframe>
         </div>
-    </embed>
+    </embed>    
 
 
 A turma e o palestrante:
