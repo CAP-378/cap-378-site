@@ -9,44 +9,58 @@ No dia 07/07/2021, aconteceu a terceira palestra da disciplina OBT com o palestr
 
 Os slides da apresentação podem ser baixados aqui: (https://inpe-cap-378.netlify.app/_static/2021/mateus/programa_queimadas.pdf)
 
-.. figure:: ../../_static/2021/mateus/capa.png
-   :alt: Capa da Apresentação.
-   :align: center
-   :scale: 50 %
+.. raw:: html
+
+    <embed>
+        <div align="center">
+         <img src="../../_static/2021/mateus/capa.png" style="width: 55vw; min-width: 330px;">
+      </div>
+    </embed>
 
 Melhores momentos:
 -------------------
 
 **Sistemas de Informação do Programa Queimadas**
 
-.. figure:: ../../_static/2021/mateus/sistemasdeinformacao.png
-   :alt: Sistemas de Informação desenvolvidos pelo Programa Queimadas.
-   :align: center
-   :scale: 50 %
+.. raw:: html
+
+    <embed>
+        <div align="center">
+         <img src="../../_static/2021/mateus/sistemasdeinformacao.png" style="width: 55vw; min-width: 330px;">
+      </div>
+    </embed>
 
 **Detecção e Propagação do Fogo**
 
-.. figure:: ../../_static/2021/mateus/focosdefogo.png
-   :alt: Como são detectados os focos de fogo.
-   :align: center
-   :scale: 50 %
+.. raw:: html
+
+    <embed>
+        <div align="center">
+         <img src="../../_static/2021/mateus/focosdefogo.png" style="width: 55vw; min-width: 330px;">
+      </div>
+    </embed>
 
 **Bancos de Dados disponibilizados**
 
-.. figure:: ../../_static/2021/mateus/bdqueimadas.png
-   :alt: Como acessar o banco de dados queimadas.
-   :align: center
-   :scale: 50 %
+.. raw:: html
+
+    <embed>
+        <div align="center">
+         <img src="../../_static/2021/mateus/bdqueimadas.png" style="width: 55vw; min-width: 330px;">
+      </div>
+    </embed>
 
 **Vídeo Completo da Palestra**
+
+Apresentação completa em:
 
 .. raw:: html
 
     <embed>
         <div align="center">
             <iframe width="500" height="300" 
-                src="https://www.youtube.com/watch?v=bw0xhN0FT7I" 
-                title="Observação da Terra e Programa Queimadas - MSc. Mateus Macul" 
+                src="https://www.youtube.com/watch?v=bw0xhN0FT7I?controls=0" 
+                title="Seminário - Observação da Terra e Programa Queimadas - MSc. Mateus Macul" 
                 frameborder="0" 
                 allow="accelerometer; 
                 autoplay; 
@@ -57,17 +71,18 @@ Melhores momentos:
                 allowfullscreen>
             </iframe>
         </div>
-    </embed>
-
-Apresentação completa em: (https://www.youtube.com/watch?v=bw0xhN0FT7I).
+    </embed> 
 
 A turma e o palestrante:
 ------------------------
 
-.. figure:: ../../_static/2021/mateus/turma.jpeg
-   :alt: Equipe de alunos e palestrante.
-   :align: center
-   :scale: 50 %
+.. raw:: html
+
+    <embed>
+        <div align="center">
+         <img src="../../_static/2021/mateus/turma.jpeg" style="width: 55vw; min-width: 330px;">
+      </div>
+    </embed>
 
 |br|
 
