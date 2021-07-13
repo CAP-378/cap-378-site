@@ -12,7 +12,7 @@ Em cada semana, apresentações são feitas. A tabela abaixo apresenta a relaç�
 +-------+-------------------------------------------------------------------------------------------------------------------------------+---------------+---------------+
 | 30/06 |  Seminário 2 - Satélites de Observação da Terra: Tecnologias & Aplicações, Dr. Julio D'Alge                                   |    Sabrina    |    Gabriel    |
 +-------+-------------------------------------------------------------------------------------------------------------------------------+---------------+---------------+
-| 07/07 |  Seminário 3 - Observação da Terra e Programa Queimadas, Msc. Mateus Macul                                                    |     Cátia     |   Marcelly    |
+| 07/07 |  Seminário 3 - Observação da Terra e Programa Queimadas, Msc. Mateus Macul                                                    |    Marcelly   |     Cátia     |
 +-------+-------------------------------------------------------------------------------------------------------------------------------+---------------+---------------+
 | 14/07 |  Seminário 4 - Deep Learning e Problemas de Classificação em Observação da Terra, Dr. Thales Korting                          |    Matheus    |     Baggio    |
 +-------+-------------------------------------------------------------------------------------------------------------------------------+---------------+---------------+
