@@ -7,6 +7,7 @@ Seminários do Curso de 2021
 
    seminarios/evlyn.rst
    seminarios/julio.rst
+   seminarios/mateus.rst
 
 
 .. Índice
