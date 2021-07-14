@@ -59,7 +59,7 @@ Apresentação completa em:
     <embed>
         <div align="center">
             <iframe width="500" height="300" 
-                src="https://www.youtube.com/watch?v=bw0xhN0FT7I?controls=0" 
+                src="https://www.youtube.com/embed/bw0xhN0FT7I" 
                 title="Seminário - Observação da Terra e Programa Queimadas - MSc. Mateus Macul" 
                 frameborder="0" 
                 allow="accelerometer; 
