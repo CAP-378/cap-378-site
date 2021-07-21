@@ -13,7 +13,7 @@ No dia 14 de Julho de 2021 aconteceu a quarta palestra da disciplina OBT com o p
 
     <embed>
         <div align="center">
-         <img src="../../_static/2021/thales/capa.png style="width: 55vw; min-width: 330px;">
+         <img src="../../_static/2021/thales/capa.png" style="width: 55vw; min-width: 330px;">
       </div>
     </embed>
 
@@ -89,7 +89,7 @@ A turma e o palestrante:
 
     <embed>
         <div align="center">
-         <img src="../../_static/2021/thales/turma.jpeg" style="width: 55vw; min-width: 330px;">
+         <img src="../../_static/2021/thales/turma.png" style="width: 55vw; min-width: 330px;">
       </div>
     </embed>
 
