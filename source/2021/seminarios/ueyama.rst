@@ -7,7 +7,7 @@ Inteligência Artificial e Inundações
 
 No dia 18 de agosto de 2021, aconteceu a última palestra da disciplina de Tópicos em Observação da Terra com o palestrante  Prof. Dr. Jó Ueyama (ICMC/USP) sobre o tema: "Inteligência Artificial e Inundações".
 
-Os slides da apresentação podem ser baixados aqui: (<link_slide>)
+Os slides da apresentação podem ser baixados aqui: (https://inpe-cap-378.netlify.app/_static/2021/ueyama/ueyama.pdf)
 
 .. raw:: html
 
