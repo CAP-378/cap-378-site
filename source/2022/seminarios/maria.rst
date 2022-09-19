@@ -58,6 +58,6 @@ Comentários dos alunos
 Materiais relacionados
 ----------------------
 
-- Slide da apresentação: https://inpe-cap-378.netlify.app/_static/2022/camilo/Seminario_4_24Aug2022_Slides.pdf
+- Slide da apresentação: https://inpe-cap-378.netlify.app/_static/2022/maria/Seminario_4_24Aug2022_Slides.pdf
 
 - Assista a apresentação completa em: https://www.youtube.com/watch?v=DwnWgJ2Urcg

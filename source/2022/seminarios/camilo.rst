@@ -64,6 +64,6 @@ Materiais relacionados
 ----------------------
 
 
-- Slide da apresentação: https://inpe-cap-378.netlify.app/_static/2022/camilo/slide.pdf
+- Slide da apresentação: https://inpe-cap-378.netlify.app/_static/2022/camilo/slides.pdf
 
 - Assista a apresentação completa em: https://www.youtube.com/watch?v=s9GraX8YmAQ
