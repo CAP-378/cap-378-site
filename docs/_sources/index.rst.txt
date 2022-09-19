@@ -17,6 +17,15 @@ Tópicos em Observação da Terra
 .. toctree::
    :numbered:
    :maxdepth: 2
+   :caption: Turma 2022:
+
+   2022/escala
+
+   2022/index
+
+.. toctree::
+   :numbered:
+   :maxdepth: 2
    :caption: Turma 2021:
 
    2021/escala
