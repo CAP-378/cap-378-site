@@ -1,0 +1,11 @@
+.best-moments{
+  min-width: 165px;
+  width: 28vw;
+  border-radius: 8px;
+}
+.div-moments{
+  display: flex;
+  width: 100%;
+  gap: 8px;
+}
+
