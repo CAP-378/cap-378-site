@@ -41,7 +41,7 @@ Perguntas para a Profa. Evlyn Marcia Leão de Moraes Novo
 
     <embed>
         <div align="center">
-         <img src="../../../../source/_static/2022/evlyn/IMG_0339.jpg" style="width: 40vw; min-width: 330px; border-radius: 8px">
+         <img src="../../_static/2022/evlyn/IMG_0339.jpg" style="width: 40vw; min-width: 330px; border-radius: 8px">
       </div>
     </embed>
  
@@ -81,21 +81,6 @@ Perguntas para a Profa. Evlyn Marcia Leão de Moraes Novo
 
     <embed>
         <div align="center">
-         <img src="../../../../source/_static/2022/evlyn/IMG_0352.jpg" style="width: 40vw; min-width: 330px; height: 100vh; border-radius: 8px">
+         <img src="../../_static/2022/evlyn/IMG_0352.jpg" style="width: 40vw; min-width: 330px; height: 100vh; border-radius: 8px">
       </div>
     </embed>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-

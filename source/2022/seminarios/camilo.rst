@@ -7,7 +7,7 @@ O primeiro seminário da disciplina em 2022 foi proferido pelo Dr. Camilo Dalele
 
     <embed>
         <div align="center">
-         <img src="../../../../source/_static/2022/camilo/IMG01.png" style="width: 30vw; min-width: 330px; border-radius: 8px">
+         <img src="../../_static/2022/camilo/IMG01.png" style="width: 30vw; min-width: 330px; border-radius: 8px">
       </div>
     </embed>
 
@@ -19,8 +19,8 @@ Melhores momentos
 
   
         <div align="center" class="div-moments">
-          <img class="best-moments"  src="../../../../source/_static/2022/camilo/IMG02.png" >
-          <img class="best-moments" src="../../../../source/_static/2022/camilo/IMG03.png">
+          <img class="best-moments"  src="../../_static/2022/camilo/IMG02.png" >
+          <img class="best-moments" src="../../_static/2022/camilo/IMG03.png">
         </div>
 
 
@@ -31,7 +31,7 @@ A turma e o palestrante
 
     <embed>
         <div align="center">
-         <img src="../../../../source/_static/2022/camilo/IMG04.png" style="width: 28vw; min-width: 165px; border-radius: 8px;">
+         <img src="../../_static/2022/camilo/IMG04.png" style="width: 28vw; min-width: 165px; border-radius: 8px;">
       </div>
     </embed>
 
